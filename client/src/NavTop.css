@@ -1,0 +1,10 @@
+.nav-anchor {
+    color: #fff !important; 
+  }
+  .nav-anchor:hover, .nav-anchor.active {
+    color: #61dafb !important;
+  }
+  
+  .navbar-brand{
+    margin-right: 3em !important;
+  }
